@@ -1,0 +1,17 @@
+Index: lib/Hero/page2.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/Hero/page2.dart b/lib/Hero/page2.dart
+--- a/lib/Hero/page2.dart	(revision 5044c0b5a8217ac40e02683721cb8861e9644e52)
++++ b/lib/Hero/page2.dart	(date 1677229328630)
+@@ -16,7 +16,7 @@
+             Icons.add,
+             size: 200,
+           ),
+-        ),
++        ),xascfasf
+         flightShuttleBuilder: (flightContext, animation, flightDirection,
+             fromHeroContext, toHeroContext) {
+           if (flightDirection == HeroFlightDirection.push) {
